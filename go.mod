@@ -1,1 +1,1 @@
-module in-memory-cache
+module Kzamirtay/in-memory-cache
